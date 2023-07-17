@@ -1,0 +1,15 @@
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\bin\Debug\net6.0\stringOperation.exe
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\bin\Debug\net6.0\stringOperation.deps.json
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\bin\Debug\net6.0\stringOperation.runtimeconfig.json
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\bin\Debug\net6.0\stringOperation.dll
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\bin\Debug\net6.0\stringOperation.pdb
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.AssemblyInfoInputs.cache
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.AssemblyInfo.cs
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.dll
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\refint\stringOperation.dll
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.pdb
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\stringOperation.genruntimeconfig.cache
+C:\Users\Personal\Documents\.netProjects\stringOperation\stringOperation\obj\Debug\net6.0\ref\stringOperation.dll
