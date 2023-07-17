@@ -23,7 +23,7 @@ public class Program {
                 newKey = item.key;
             }
         }
-
+        Console.WriteLine(string.Join(", ", query));
         Console.WriteLine(newKey + " - " + max);
         Console.ReadLine();
     }
